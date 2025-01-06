@@ -71,9 +71,6 @@
 
 ## **Optimization of Sales in December (High Season)**
 
-### **Problem**:
-   - Despite being a high-demand period, sales in December are lower than expected.
-
 ### **Recommendations**:
    - **End-of-Year Discount**: Offer 20-30% off all products from December 20-31.
      - **Large Products**: 30% off (to drive sales).
