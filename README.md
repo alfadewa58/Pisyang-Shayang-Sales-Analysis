@@ -1,7 +1,7 @@
 
 # Pisyang Shayang Sales Analysis
 
-![alt text](https://github.com/alfadewa58/Empowering-Data-Driven-Decisions-for-a-Global-Bike-Company-With-BI-Dashboard/blob/main/Screenshot%202025-01-20%20164210.png)
+![alt text](https://github.com/alfadewa58/Pisyang-Shayang-Sales-Analysis/blob/main/Screenshot%202025-01-20%20172255.png)
 
 [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg1MWYyOTQtNTk0OC00MzIzLTg0NGMtNDJhNjg0MGRhNWFhIiwidCI6IjUwODkxNmEwLTdiODktNDNhMS1hZjRlLTcyZmUxNWFiYTViOSIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true&pageName=1f93fdf6704b7571d979)
 
