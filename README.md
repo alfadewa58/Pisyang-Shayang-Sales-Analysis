@@ -1,6 +1,11 @@
 
 # Pisyang Shayang Sales Analysis
 
+![alt text](https://github.com/alfadewa58/Empowering-Data-Driven-Decisions-for-a-Global-Bike-Company-With-BI-Dashboard/blob/main/Screenshot%202025-01-20%20164210.png)
+
+[View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg1MWYyOTQtNTk0OC00MzIzLTg0NGMtNDJhNjg0MGRhNWFhIiwidCI6IjUwODkxNmEwLTdiODktNDNhMS1hZjRlLTcyZmUxNWFiYTViOSIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true&pageName=1f93fdf6704b7571d979)
+
+
 ## **Business Overview**
 
 **Pisyang Shayang** is a food and beverage (F&B) company specializing in fried bananas (**pisang goreng**) with a variety of creative toppings. The company targets a young audience and families, leveraging both online platforms such as Gojek, Shopee, and Grab, as well as offline sales channels.
